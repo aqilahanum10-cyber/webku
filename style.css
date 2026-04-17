@@ -26,12 +26,8 @@ body{
 	margin:0 auto;
 	padding:0 auto;
 }
-.menu ul{
+.menu ul {
 	list-style:none;
-}
-.menu ul li a:hover {
-	background-color:#4b88bb;
-	display:block;
 }
 
 .menu ul li a {
